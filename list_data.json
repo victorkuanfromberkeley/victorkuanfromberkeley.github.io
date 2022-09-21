@@ -1,22 +1,24 @@
 {
-	"movies": [
+	"favorite restaurants in Seattle": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Name": "Yea's Wok",
+			"Genre of food": "Casual family style Taiwanese food"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Name": "Taco's Chukis",
+			"Genre of food": "Street tacos"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Name": "Tian Fu",
+			"Genre of food": "Spicy Sichuanese food"
+		},
+		{
+			"Name": "Soju Anju",
+			"Genre of food": "Late night Korean snacks and drinks"
+		},
+		{
+			"Name": "Sushi Kashiba",
+			"Genre of food": "Omakase sushi"
 		}
 	]
 }
