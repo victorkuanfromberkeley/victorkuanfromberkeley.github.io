@@ -1,0 +1,24 @@
+{
+	"favorite restaurants in Seattle": [
+		{
+			"Name": "Yea's Wok",
+			"Genre of food": "Casual family style Taiwanese food"
+		},
+		{
+			"Name": "Taco's Chukis",
+			"Genre of food": "Street tacos"
+		},
+		{
+			"Name": "Tian Fu",
+			"Genre of food": "Spicy Sichuanese food"
+		},
+		{
+			"Name": "Soju Anju",
+			"Genre of food": "Late night Korean snacks and drinks"
+		},
+		{
+			"Name": "Sushi Kashiba",
+			"Genre of food": "Omakase sushi"
+		}
+	]
+}
